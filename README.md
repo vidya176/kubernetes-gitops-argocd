@@ -130,8 +130,6 @@ kubernetes-gitops-argocd
 
 ## 📸 Screenshots
 
-Screenshots to be added:
-
 - Kops Cluster
 - kubectl get nodes
 - Helm Installation
